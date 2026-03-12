@@ -1,0 +1,12 @@
+# ==============================
+# Prompt 模板文件配置
+# ==============================
+
+# Agent 主提示词（用于整体任务调度）
+main_prompt_path: prompts/main_prompt.txt
+
+# RAG 总结提示词（用于整理检索到的知识）
+rag_summarize_prompt_path: prompts/rag_summarize.txt
+
+# 报告生成提示词（用于生成最终分析报告）
+report_prompt_path: prompts/report_prompt.txt

@@ -1,0 +1,4 @@
+2026-03-12 12:48:49,801 - __main__ - DEBUG - logger_handler.py:149 - 这是一条 DEBUG 日志（默认只写入文件）。
+2026-03-12 12:48:49,801 - __main__ - INFO - logger_handler.py:150 - 这是一条 INFO 日志。
+2026-03-12 12:48:49,801 - __main__ - WARNING - logger_handler.py:151 - 这是一条 WARNING 日志。
+2026-03-12 12:48:49,802 - __main__ - ERROR - logger_handler.py:152 - 这是一条 ERROR 日志。

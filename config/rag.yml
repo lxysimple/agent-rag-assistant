@@ -1,0 +1,11 @@
+# ==============================
+# 大模型配置
+# ==============================
+
+# 对话大模型名称
+# 用于 Agent 推理、RAG 问答等任务
+chat_model_name: qwen3-max
+
+# 文本向量模型
+# 用于文本向量化（Embedding）并存储到向量数据库
+embedding_model_name: text-embedding-v4

@@ -1,0 +1,20 @@
+2026-03-11 07:39:24,626 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\扫地机器人100问.pdf 内容已经存在知识库内，跳过
+2026-03-11 07:39:24,627 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\扫地机器人100问2.txt 内容已经存在知识库内，跳过
+2026-03-11 07:39:24,628 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\扫拖一体机器人100问.txt 内容已经存在知识库内，跳过
+2026-03-11 07:39:24,628 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\故障排除.txt 内容已经存在知识库内，跳过
+2026-03-11 07:39:24,629 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\维护保养.txt 内容已经存在知识库内，跳过
+2026-03-11 07:39:24,630 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\选购指南.txt 内容已经存在知识库内，跳过
+2026-03-11 07:40:30,535 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\扫地机器人100问.pdf 内容已经存在知识库内，跳过
+2026-03-11 07:40:30,536 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\扫地机器人100问2.txt 内容已经存在知识库内，跳过
+2026-03-11 07:40:30,536 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\扫拖一体机器人100问.txt 内容已经存在知识库内，跳过
+2026-03-11 07:40:30,537 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\故障排除.txt 内容已经存在知识库内，跳过
+2026-03-11 07:40:30,537 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\维护保养.txt 内容已经存在知识库内，跳过
+2026-03-11 07:40:30,537 - agent - INFO - vector_store.py:97 - [加载知识库]c:\Users\xaoyang\Desktop\Agent项目案例\data\选购指南.txt 内容已经存在知识库内，跳过
+2026-03-11 13:00:13,667 - agent - WARNING - agent_tools.py:94 - [fetch_external_data] 未能检索到用户: 1001 在 2025-01 的使用记录数据
+2026-03-11 13:00:40,455 - agent - WARNING - agent_tools.py:94 - [fetch_external_data] 未能检索到用户: 1007 在 2025-01 的使用记录数据
+2026-03-11 13:01:03,359 - agent - WARNING - agent_tools.py:96 - [fetch_external_data] 未能检索到用户: 1007 在 2025-01 的使用记录数据
+2026-03-11 13:02:50,118 - agent - WARNING - agent_tools.py:96 - [fetch_external_data] 未能检索到用户: 1007 在 2025-01 的使用记录数据
+2026-03-11 13:03:06,317 - agent - WARNING - agent_tools.py:94 - [fetch_external_data] 未能检索到用户: 1007 在 2025-01 的使用记录数据
+2026-03-11 13:03:51,791 - agent - WARNING - agent_tools.py:94 - [fetch_external_data] 未能检索到用户: 1001 在 2025-01 的使用记录数据
+2026-03-11 13:04:18,255 - agent - WARNING - agent_tools.py:94 - [fetch_external_data] 未能检索到用户: 1001 在 2025-01 的使用记录数据
+2026-03-11 13:06:08,687 - agent - WARNING - agent_tools.py:94 - [fetch_external_data] 未能检索到用户: 1021 在 2025-01 的使用记录数据
