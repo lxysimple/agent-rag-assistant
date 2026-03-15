@@ -34,6 +34,44 @@
 
 ---
 
+
+# 📷 系统运行示例
+
+
+## 1️⃣ Agent 运行日志（VSCode）
+
+<p align="center">
+  <img src="images/agent_runtime_logs.png" width="900">
+</p>
+
+---
+
+## 2️⃣ Agent 工具调用过程1
+
+<p align="center">
+  <img src="images/agent_tool_calling1.png" width="900">
+</p>
+
+---
+
+## 3️⃣ Agent 工具调用过程2
+
+<p align="center">
+  <img src="images/agent_tool_calling2.png" width="900">
+</p>
+
+---
+
+## 4️⃣ RAG 知识库检索回答
+
+<p align="center">
+  <img src="images/agent_tool_calling3.png" width="900">
+</p>
+
+
+
+---
+
 # 🏗 系统整体架构
 
 ```
